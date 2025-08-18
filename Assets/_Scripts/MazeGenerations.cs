@@ -9,13 +9,15 @@ public class MazeGenerations : MonoBehaviour
     [SerializeField] GameObject GroundTile, TileWall;
     [SerializeField] Transform Parent;
 
+    [SerializeField] List<MazeTile> PathedTiles = new();
+
     [SerializeField] float TileOffset = 5f;
     [SerializeField] int GridWidth = 5, GridHeight = 5;
 
     [SerializeField] int MaxPathingAttempts = 10, MinPathingLength = 1, MaxPathingLength = 12;
 
     MazeTile[,] Tiles;
-    List<MazeTile> PathedTiles = new();
+    
 
     private void Awake()
     {

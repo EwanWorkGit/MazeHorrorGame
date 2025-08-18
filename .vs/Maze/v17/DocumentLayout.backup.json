@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|c:\\users\\08122\\onedrive\\dokument\\unity games\\maze\\assets\\_scripts\\navigation\\navigationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\assets\\_scripts\\navigation\\creatureai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\navigation\\creatureai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|c:\\users\\08122\\onedrive\\dokument\\unity games\\maze\\assets\\_scripts\\player\\weapons\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\weapons\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|c:\\users\\08122\\onedrive\\dokument\\unity games\\maze\\assets\\_scripts\\player\\weapons\\interafaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\weapons\\interafaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\assets\\_scripts\\navigation\\navigationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\navigation\\navigationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|c:\\users\\08122\\onedrive\\dokument\\unity games\\maze\\assets\\_scripts\\mazegenerations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\mazegenerations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\assets\\_scripts\\player\\weapons\\rifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\weapons\\rifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\assets\\_scripts\\mazetile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\mazetile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\assets\\_scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\assets\\_scripts\\mazegenerations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\mazegenerations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Player\\Weapons\\Interafaces\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\Weapons\\Interafaces\\IDamageable.cs",
+              "ToolTip": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Player\\Weapons\\Interafaces\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\Weapons\\Interafaces\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:02:09.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Player\\Weapons\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\Weapons\\Bullet.cs",
+              "ToolTip": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Player\\Weapons\\Bullet.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\Weapons\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:59:37.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rifle.cs",
+              "DocumentMoniker": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Player\\Weapons\\Rifle.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\Weapons\\Rifle.cs",
+              "ToolTip": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Player\\Weapons\\Rifle.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\Weapons\\Rifle.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:21:29.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T01:21:34.685Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreatureAI.cs",
+              "DocumentMoniker": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Navigation\\CreatureAI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Navigation\\CreatureAI.cs",
+              "ToolTip": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Navigation\\CreatureAI.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Navigation\\CreatureAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T21:47:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NavigationManager.cs",
               "DocumentMoniker": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Navigation\\NavigationManager.cs",
               "RelativeDocumentMoniker": "Assets\\_Scripts\\Navigation\\NavigationManager.cs",
               "ToolTip": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\Navigation\\NavigationManager.cs",
               "RelativeToolTip": "Assets\\_Scripts\\Navigation\\NavigationManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T21:40:54.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T21:40:54.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MazeTile.cs",
-              "DocumentMoniker": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\MazeTile.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\MazeTile.cs",
-              "ToolTip": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\MazeTile.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\MazeTile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T18:29:40.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MazeGenerations.cs",
               "DocumentMoniker": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\MazeGenerations.cs",
               "RelativeDocumentMoniker": "Assets\\_Scripts\\MazeGenerations.cs",
               "ToolTip": "C:\\Users\\08122\\OneDrive\\Dokument\\Unity Games\\Maze\\Assets\\_Scripts\\MazeGenerations.cs",
               "RelativeToolTip": "Assets\\_Scripts\\MazeGenerations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAIwBsBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T17:25:27.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T17:25:27.327Z"
             }
           ]
         }

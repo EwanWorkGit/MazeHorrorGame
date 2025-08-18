@@ -10,23 +10,37 @@ public class CreatureAI : MonoBehaviour
     [SerializeField] Transform Player;
     [SerializeField] State CurrentState = State.Wandering;
     [SerializeField] MazeGenerations MazeGenerator;
+    [SerializeField] NavMeshAgent Agent;
+    [SerializeField] HealthHandler HealthHandler;
 
     [SerializeField] float SampleRadius = 20f, VisualThreshold = 30f, DegreesOfView = 90f;
-    [SerializeField] float DefaultAgentSpeed, Timer, TimeUntilChange = 5f;
-    
-    NavMeshAgent Agent;
+    [SerializeField] float Timer, TimeUntilChange = 5f;
 
-    enum State { Wandering, Chasing }
+    [Header("--STATS--")]
+
+    [SerializeField] float Health; //doesnt kill when <= 0, will make creature run 
+    [SerializeField] float DefaultAgentSpeed;
+
+    enum State { Wandering, Chasing, Fleeing }
 
     private void Start()
     {
-        Agent = GetComponent<NavMeshAgent>();
+        Health = HealthHandler.Health;
         DefaultAgentSpeed = Agent.speed;
     }
 
     private void Update()
     {
-        //STATES
+        Health = HealthHandler.Health;
+
+        //trigger for running away
+        if(Health <= 0)
+        {
+            CurrentState = State.Fleeing;
+            Health = HealthHandler.BaseHealth;
+        }
+
+        //STATE FUNCTIONALITY
 
         if(CurrentState == State.Wandering)
         {
@@ -56,6 +70,11 @@ public class CreatureAI : MonoBehaviour
         {
             Agent.speed = DefaultAgentSpeed * 2f;
             Agent.SetDestination(Player.position);
+        }
+
+        if(CurrentState == State.Fleeing)
+        {
+            //get the furthest tile and run there at chase speed
         }
 
         //STATE CHANGES
